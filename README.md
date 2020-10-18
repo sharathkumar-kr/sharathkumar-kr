@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sharath Kumar</h1>
 <h3 align="center">A passionate softwawre developer building my dreams!</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sharathkumar-kr&label=%20PROFILE%20VIEWS%20&color=blue&style=flat-square" alt="sharathkumar-kr" /> </p>
+<p align="center"><img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif"><p>
 
 - 🔭 I’m currently working on **Web Development Projects**
 
@@ -90,15 +92,12 @@
             alt="typescript" width="40" height="40" /> </a> <a href="https://www.adobe.com/products/xd.html"
         target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40"
             height="40" /> </a> </p>
+<br><br>
 
-<p><img align="center" style="margin:40px"
+<p><img align="left" style="margin:10px"
         src="https://github-readme-stats.vercel.app/api?username=sharathkumar-kr&show_icons=true&theme=onedark"
         alt="sharathkumar-kr" /></p>
         
-<p align="left"> <img
-src="https://komarev.com/ghpvc/?username=sharathkumar-kr&label=Profile%20views&color=0e75b6&style=flat"
-alt="sharathkumar-kr" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=sharathkumar-kr&theme=onedark&column=3&margin-w=15&margin-h=15"
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+            src="https://github-profile-trophy.vercel.app/?username=sharathkumar-kr&theme=onedark&column=3&row=2&margin-w=15"
             alt="sharathkumar-kr" /></a> </p>
