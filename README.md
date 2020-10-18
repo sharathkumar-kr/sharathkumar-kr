@@ -3,6 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sharathkumar-kr&label=%20PROFILE%20VIEWS%20&color=blue&style=flat-square" alt="sharathkumar-kr" /> </p>
 <p align="center"><img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif"><p>
+    
+<br><hr/><br>
 
 - 🔭 I’m currently working on **Web Development Projects**
 
@@ -15,6 +17,17 @@
 - 📫 How to reach me **sharathkr606@gmail.com**
 
 - ⚡ Fun fact **Programming is the best medicine!**
+
+<br/><hr/><br/>
+
+<p><img align="left" style="margin:5px"
+        src="https://github-readme-stats.vercel.app/api?username=sharathkumar-kr&show_icons=true&theme=onedark"
+        alt="sharathkumar-kr" /></p>
+        
+<p align="right"><img
+            src="https://github-profile-trophy.vercel.app/?username=sharathkumar-kr&theme=onedark&column=3&row=2"
+            alt="sharathkumar-kr" /></a> </p>
+<br><hr/><br>
 
 <p align="left">
     <h3 align="left">Connect with me:</h3>
@@ -40,6 +53,8 @@
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sharathkumar106" height="30"
             width="40" /></a>
 </p>
+
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img
@@ -92,12 +107,3 @@
             alt="typescript" width="40" height="40" /> </a> <a href="https://www.adobe.com/products/xd.html"
         target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40"
             height="40" /> </a> </p>
-<br><br>
-
-<p><img align="left" style="margin:10px"
-        src="https://github-readme-stats.vercel.app/api?username=sharathkumar-kr&show_icons=true&theme=onedark"
-        alt="sharathkumar-kr" /></p>
-        
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=sharathkumar-kr&theme=onedark&column=3&row=2&margin-w=15"
-            alt="sharathkumar-kr" /></a> </p>
