@@ -46,8 +46,8 @@
     <a href="https://instagram.com/sharath.kumar.10.6" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sharath.kumar.10.6"
             height="30" width="40" /></a>
-    <a href="https://medium.com/@whitemicrophone" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@whitemicrophone" height="30"
+    <a href="https://medium.com/@whitemicrophone10" target="blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@whitemicrophone10" height="30"
             width="40" /></a>
     <a href="https://www.hackerrank.com/sharathkumar106" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sharathkumar106" height="30"
